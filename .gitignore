@@ -160,6 +160,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Tensorflow
+logs/
+
 ### VirtualEnv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/

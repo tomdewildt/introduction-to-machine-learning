@@ -21,3 +21,8 @@ init: ## Initialize the environment
 
 notebook: ## Run the notebook server
 	jupyter-notebook --notebook-dir notebooks
+
+##
+
+tensorboard: ## Run the tensorboard server
+	tensorboard --logdir logs --port 6006
