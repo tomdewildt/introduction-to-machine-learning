@@ -210,3 +210,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Custom ###
+# Scratch notebook
+notebooks/scratch.ipynb
